@@ -38,3 +38,11 @@ captures/
 
 # Keystore files
 *.jks
+
+bin/
+gen/
+.settings/
+.claspath
+.project
+project.*
+
